@@ -12,6 +12,6 @@ In this quick start lab I built a simple working pipeline from csv file to Snowf
 4. Installed Docker Desktop.
 5. Created Docker Image with Airflow and dbt.
 6. Created 2 DAGs in Airflow.
-7. First DAG is named 
-8. Second DAS is named
+7. First DAG is named 1_init_once_seed_data.
+8. Second DAS is named 
 9. 
