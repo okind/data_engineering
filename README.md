@@ -1,5 +1,5 @@
 # data_engineering
-Building a personal warehouse in SnowFlake, ETL data transformation
+Building a personal warehouse in SnowFlake, ETL wirh Airflow and dbt tool
 
 Snowflake quick start guide:
 Data Engineering with Apache Airflow, Snowflake & dbt
@@ -13,5 +13,5 @@ In this quick start lab I built a simple working pipeline from csv file to Snowf
 5. Created Docker Image with Airflow and dbt.
 6. Created 2 DAGs in Airflow.
 7. First DAG is named 1_init_once_seed_data.
-8. Second DAS is named 
+8. Second DAG is named 
 9. 
